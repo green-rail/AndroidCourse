@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">AndroidCourse</string>
+    <string name="question_text">Did you sleep well?</string>
+    <string name="true_button">Yes</string>
+    <string name="false_button">No</string>
+    <string name="correct_toast">Correct</string>
+    <string name="incorrect_toast">Wrong</string>
+    <string name="next_button">Next</string>
+    <string name="question_a">Do you want to sleep?</string>
+    <string name="question_b">When will you go to sleep?</string>
+    <string name="question_c">Do you even need to sleep?</string>
+    <string name="question_d">Are you having a nice day?</string>
+    <string name="question_e">Are you having an awful day?</string>
 </resources>
