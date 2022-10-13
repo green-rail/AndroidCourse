@@ -30,8 +30,9 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-
-        val exercise = Exercise5()
+		//Задания 1-6 работают
+		//val exercise = Exercise5()
+		val exercise = Exercise6()
         exercise.run()
     }
 }
