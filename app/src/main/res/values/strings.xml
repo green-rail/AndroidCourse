@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">AndroidCourse</string>
+    <string name="exercise_text">For now all output goes to logcat</string>
+    <string name="exercise_5">Exercise 5</string>
     <string name="question_text">Did you sleep well?</string>
     <string name="true_button">Yes</string>
     <string name="false_button">No</string>
@@ -11,4 +13,10 @@
     <string name="question_c">Do you even need to sleep?</string>
     <string name="question_d">Are you having a nice day?</string>
     <string name="question_e">Are you having an awful day?</string>
+    <string name="exercise_6_app_name">English 101</string>
+    <string name="exercise_6_sentence">The quick brown fox … over the lazy dog.</string>
+    <string name="exercise_6_button_left">jumps</string>
+    <string name="exercise_6_button_right">jumping</string>
+    <string name="exercise_6_sentence_counter">6/10</string>
+    <string name="exercise_6_button_back">Back</string>
 </resources>
