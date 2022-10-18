@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity() {
 
 		//Задания 1-6 работают
 		//val exercise = Exercise5()
-		val exercise = Exercise6()
+		val exercise = Exercise7()
         exercise.run()
     }
 }
